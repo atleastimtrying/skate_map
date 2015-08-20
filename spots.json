@@ -1,0 +1,202 @@
+[
+  {
+  "name": "Ipswich Skatepark",
+  "lon": 1.1531031,
+  "lat": 52.0518835
+},
+{
+  "name": "Secret Ledge",
+  "lon": 1.1593366,
+  "lat": 52.0453909
+},
+{
+  "name": "Grey Triangle Ledges",
+  "lon": 1.1442465,
+  "lat": 52.0575736
+},
+{
+  "name": "Wolsey 6 set",
+  "lon": 1.1475027,
+  "lat": 52.0583586
+},
+{
+  "name": "Wolsey 12 set",
+  "lon": 1.1476207,
+  "lat": 52.0585961
+},
+{
+  "name": "2 sets of four",
+  "lon": 1.1477682,
+  "lat": 52.0589408
+},
+{
+  "name": "Iceland Rail",
+  "lon": 1.1478755,
+  "lat": 52.0591601
+},
+{
+  "name": "St Matthews Gap",
+  "lon": 1.1462487,
+  "lat": 52.0594009
+},
+{
+  "name": "St Matthews ledges",
+  "lon": 1.1460824,
+  "lat": 52.0598759
+},
+{
+  "name": "Portman Road Ledge",
+  "lon": 1.1445898000000003,
+  "lat": 52.0556341
+},
+{
+  "name": "Bridge Ledge",
+  "lon": 1.140368,
+  "lat": 52.0529622
+},
+{
+  "name": "Light benches",
+  "lon": 1.163215,
+  "lat": 52.0506274
+},
+{
+  "name": "Cromwell fat rail",
+  "lon": 1.1516292,
+  "lat": 52.0552944
+},
+{
+  "name": "mellow white rail",
+  "lon": 1.1307348,
+  "lat": 52.04784550000001
+},
+{
+  "name": "Toby's Rail",
+  "lon": 1.1336115,
+  "lat": 52.0506621
+},
+{
+  "name": "Diamond Rails",
+  "lon": 1.2834558,
+  "lat": 52.0614986
+},
+{
+  "name": "Chantry mini",
+  "lon": 1.1178562,
+  "lat": 52.0357955
+},
+{
+  "name": "Stupid death kink",
+  "lon": 1.1233011,
+  "lat": 52.0391011
+},
+{
+  "name": "Westwood Benches",
+  "lon": 1.1393823,
+  "lat": 52.06600110000001
+},
+{
+  "name": "B &amp; Q Triple kink",
+  "lon": 1.1161812,
+  "lat": 52.0862095
+},
+{
+  "name": "Hanford hall blue rail",
+  "lon": 1.1366397,
+  "lat": 52.0610055
+},
+{
+  "name": "Hanford hall rails",
+  "lon": 1.1363165,
+  "lat": 52.0611894
+},
+{
+  "name": "Crown pools rails",
+  "lon": 1.154172,
+  "lat": 52.0596705
+},
+{
+  "name": "Crown pools latg basement rail",
+  "lon": 1.1537214,
+  "lat": 52.060317
+},
+{
+  "name": "Crown pools bank to rail",
+  "lon": 1.1525707,
+  "lat": 52.06074
+},
+{
+  "name": "Crown pools down ledges",
+  "lon": 1.1521898,
+  "lat": 52.0603574
+},
+{
+  "name": "Gainsborough skatepark",
+  "lon": 1.1887792,
+  "lat": 52.0323806
+},
+{
+  "name": "Area 25",
+  "lon": 1.2836248,
+  "lat": 52.061891
+},
+{
+  "name": "Bush rail",
+  "description": "http://imgur.com/a/IeN3j",
+  "lon": 1.1383523,
+  "lat": 52.0411338
+},
+{
+  "name": "High corner rail",
+  "description": "http://imgur.com/a/byvbP",
+  "lon": 1.1385494,
+  "lat": 52.0405093
+},
+{
+  "name": "Giants rail",
+  "description": "needs some bushwhacking and a broom! http://imgur.com/a/drxGr",
+  "lon": 1.1459108,
+  "lat": 52.0465217
+},
+{
+  "name": "Back of UCS Rail",
+  "description": "http://imgur.com/TgGGY57",
+  "lon": 1.166136,
+  "lat": 52.0552474
+},
+{
+  "name": "Maidenhall rails",
+  "description": "http://imgur.com/a/YkOlz",
+  "lon": 1.1456667,
+  "lat": 52.041458000000006
+},
+{
+  "name": "John Lewis Ledges",
+  "description": "http://imgur.com/a/1dsV5 http://imgur.com/a/RAtvu",
+  "lon": 1.2011039,
+  "lat": 52.0332379
+},
+{
+  "name": "Steamboat kink",
+  "description": "http://imgur.com/a/dhBJ8",
+  "lon": 1.1571345,
+  "lat": 52.0508922
+},
+{
+  "name": "Alexandra Rail",
+  "description": "http://imgur.com/a/oyA8Q",
+  "lon": 1.1666456,
+  "lat": 52.0550123
+},
+{
+  "name": "Streetramp + banks",
+  "description": "http://imgur.com/nGFj6bb",
+  "lon": 1.1551644,
+  "lat": 52.0508666
+},
+{
+  "name": "New Build",
+  "description": "http://imgur.com/a/cVVm3",
+  "lon": 1.1563325,
+  "lat": 52.0509697
+}
+]
