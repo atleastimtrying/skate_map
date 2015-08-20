@@ -19,8 +19,21 @@ var addMarker = function(lon, lat){
   return marker;
 };
 
+var hideImage = function(){
+  $('#image').hide();
+  $(window).off('click', hideImage);
+};
+
+var showImage = function(src){
+  $('#image').attr('src', src).show();
+  $(window).on('click', hideImage);
+};
+
 var makeSpot = function(spot){
   var marker = addMarker(spot.lon, spot.lat);
+  marker.events.register("click", marker, function(){
+    showImage('http://i.imgur.com/rIZ7SUy.jpg');
+  });
 };
 
 $.getJSON('spots.json', function(spots){

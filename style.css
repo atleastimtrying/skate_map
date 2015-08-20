@@ -1,0 +1,12 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+img#image{
+  position:absolute;
+  width:80%;
+  left:10%;
+  top: 20px;
+  z-index: 1000;
+}
